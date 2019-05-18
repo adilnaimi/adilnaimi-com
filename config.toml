@@ -27,7 +27,7 @@ theme = "hello-friend-ng"
     # readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "$ cd ~"
+      logoText = "cd ~"
       logoHomeLink = "/"
     # or
     #
@@ -57,7 +57,7 @@ theme = "hello-friend-ng"
 #     url        = "/posts"
 
   [params.logo]
-    logoText     = "$ cd ~"
+    logoText     = "cd ~"
     logoHomeLink = "/"
 
   # Social icons
